@@ -1,0 +1,7 @@
+[{
+    "version": "1.0",
+    "train": "prod",
+    "page": "https://github.com/sveinse/elns-release/releases/tag/v1.0",
+    "standalone": "https://github.com/sveinse/elns-release/releases/download/v1.0/elns-1.0-standalone.exe",
+    "installer": "https://github.com/sveinse/elns-release/releases/download/v1.0/elns-1.0-setup.exe"
+}]
