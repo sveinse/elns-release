@@ -5,12 +5,13 @@ Copright (C) 2015-2020 Svein Seldal <sveinse@seldal.com>
 **Homepage:** https://github.com/sveinse/elns-release
 
 ELNS is a tool for processing multi-channel audio, supporting interactive
-adjustments of audio parameters. It processes live audio to and from a file
-or sound card in real-time.
+adjustments of audio parameters during processing. It processes live audio to
+and from a file or sound card in real-time.
 
 The tool comes with a set of audio processing functions, each written to test
-or demonstrate specific features. The DSP engine support all samplerates,
-including high-res rates, and supports processing up to 32-bit resolution.
+or demonstrate specific features. The DSP engine support a wide range of
+samplerates, including high-res rates, and it supports processing audio up to
+32-bit resolution.
 
 The tool provides a tkinter based used interface to set up the audio and
 file input/output and to adjust audio parameters interactively during processing.
