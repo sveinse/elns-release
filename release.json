@@ -1,13 +1,46 @@
-[{
+[
+  {
     "version": "1.0",
     "train": "prod",
+    "date": "2019-12-23",
     "page": "https://github.com/sveinse/elns-release/releases/tag/v1.0",
-    "standalone": "https://github.com/sveinse/elns-release/releases/download/v1.0/elns-1.0-standalone.exe",
-    "installer": "https://github.com/sveinse/elns-release/releases/download/v1.0/elns-1.0-setup.exe"
-},{
+    "files": [
+      {
+        "name": "Windows x86 standalone",
+        "platform": "Windows",
+        "url": "https://github.com/sveinse/elns-release/releases/download/v1.0/elns-1.0-standalone.exe",
+        "size": 35319427,
+        "sha256": "5e38f9e67f5fa42785faf4ba91e0ee76a55b64538e0e88750aad6a67747b588a"
+      },
+      {
+        "name": "Windows x86 installer",
+        "platform": "Windows",
+        "url": "https://github.com/sveinse/elns-release/releases/download/v1.0/elns-1.0-setup.exe",
+        "size": 23485216,
+        "sha256": "01ed7d9b74eedc8d407696c6746017e67698c4ed8117cc21bc947f146f9b4033"
+      }
+    ]
+  },
+  {
     "version": "1.1-b3",
     "train": "beta",
+    "date": "2020-06-01",
     "page": "https://github.com/sveinse/elns-release/releases/tag/v1.1-b3",
-    "standalone": "https://github.com/sveinse/elns-release/releases/download/v1.1-b3/elns-1.1-b3-standalone.exe",
-    "installer": "https://github.com/sveinse/elns-release/releases/download/v1.1-b3/elns-1.1-b3-setup.exe"
-}]
+    "files": [
+      {
+        "name": "Windows x86 standalone",
+        "platform": "Windows",
+        "url": "https://github.com/sveinse/elns-release/releases/download/v1.1-b3/elns-1.1-b3-standalone.exe",
+        "size": 37336253,
+        "sha256": "cc2060b4a528ea61859300bcb413250f774d7f2a5e79110ec1fcaa0f47eaca29"
+      },
+      {
+        "name": "Windows x86 installer",
+        "platform": "Windows",
+        "url": "https://github.com/sveinse/elns-release/releases/download/v1.1-b3/elns-1.1-b3-setup.exe",
+        "size": 24320443,
+        "sha256": "2b10b322a2444eabf9d0003339b06655ba9596556c6df54fa5f4650065dcbafb"
+      }
+    ]
+  }
+]
