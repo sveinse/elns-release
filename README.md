@@ -1,8 +1,6 @@
-# ELNS
+# ELNS Releases
 
-Copright (C) 2015-2020 Svein Seldal <sveinse@seldal.com>
-
-**Homepage:** https://github.com/sveinse/elns-release
+**Homepage:** https://elns.netlify.com/
 
 ELNS is a tool for processing multi-channel audio, supporting interactive
 adjustments of audio parameters during processing. It processes live audio to
@@ -16,9 +14,9 @@ samplerates, including high-res rates, and it supports processing audio up to
 The tool provides a tkinter based used interface to set up the audio and
 file input/output and to adjust audio parameters interactively during processing.
 
-This repository contains the binary releases.
+This repository contains the binary releases. https://github.com/sveinse/elns-release
 
-![ELNS Screenshot](/notes/elns_screenshot.png)
+![ELNS Screenshot](notes/elns_screenshot.png)
 
 The tool is currently angled towards running on a Windows platform, but it
 is possible to run on other platforms.
@@ -52,3 +50,6 @@ is possible to run on other platforms.
 Binary releases for Windows is available for download from:
 
 > https://github.com/sveinse/elns-release/releases
+
+----
+Copright (C) 2015-2021 Svein Seldal <sveinse@seldal.com>
