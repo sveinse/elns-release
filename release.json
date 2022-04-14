@@ -42,5 +42,27 @@
         "sha256": "2b10b322a2444eabf9d0003339b06655ba9596556c6df54fa5f4650065dcbafb"
       }
     ]
+  },
+  {
+    "version": "1.1-b4",
+    "train": "beta",
+    "date": "2022-04-14",
+    "page": "https://github.com/sveinse/elns-release/releases/tag/v1.1-b4",
+    "files": [
+      {
+        "name": "Windows x86 standalone",
+        "platform": "Windows",
+        "url": "https://github.com/sveinse/elns-release/releases/download/v1.1-b4/elns-1.1-b4-standalone.exe",
+        "size": 58836806,
+        "sha256": "9da7450971d70ccea5bb9f029794e36306e3ff26699320117d310da348db1782"
+      },
+      {
+        "name": "Windows x86 installer",
+        "platform": "Windows",
+        "url": "https://github.com/sveinse/elns-release/releases/download/v1.1-b4/elns-1.1-b4-setup.exe",
+        "size": 35174834,
+        "sha256": "243160ce6bd2b9cd623f96f90fec2fc61429ca9a4d4ae87be5bab75da9e94ba6"
+      }
+    ]
   }
 ]

@@ -52,4 +52,4 @@ Binary releases for Windows is available for download from:
 > https://github.com/sveinse/elns-release/releases
 
 ----
-Copright (C) 2015-2021 Svein Seldal <sveinse@seldal.com>
+Copright (C) 2015-2022 Svein Seldal <sveinse@seldal.com>
